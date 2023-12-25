@@ -1,12 +1,12 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "Black-star",
+    "title": "Blak star",
+    "author": "3103896408@qq.com",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://zuigaochu.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://zuigaochu.github.io/"
     },
     "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
