@@ -3,7 +3,6 @@ layout:     post
 title:      "markdown语法快速入门"
 date:       2023-12-28
 author:     "Mtz"
-header-img: "https://gitee.com/writebird/cloudmage/raw/master/img/202312282049883.jpg"
 catalog: true
 tags:
     - markdown
