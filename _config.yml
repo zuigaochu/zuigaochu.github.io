@@ -13,10 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Mtz
-zhihu_username: Mtz
-github_username: Mtz
-twitter_username: Mtz
+bilibili_username: 镜头观察者
+github_username: zuigaochu
 #facebook_username:  Mtz
 #linkedin_username:  firstname-lastname-idxxxx
 
