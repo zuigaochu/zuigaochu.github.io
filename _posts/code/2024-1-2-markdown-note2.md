@@ -65,9 +65,7 @@ border="0" frameborder="no" framespacing="0" allowfullscreen="true">
 
 
 
-<iframe src="//player.bilibili.com/player.html?aid=492178619&bvid=BV1mN41147K1&cid=1298458534&p=1" 
-width="800px" height="600px"scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
+<iframe src="//player.bilibili.com/player.html?aid=707550522&bvid=BV1DQ4y1M7dc&cid=1374734497&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
