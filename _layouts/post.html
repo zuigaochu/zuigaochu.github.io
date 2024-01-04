@@ -5,6 +5,22 @@ layout: default
 <!-- 引入 Clipboard.js CDN -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
 
+<!-- 代码块复制功能 -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var clipboard = new ClipboardJS('.btn-copy');
+
+        clipboard.on('success', function (e) {
+            console.info('复制成功：', e.text);
+            e.clearSelection();
+        });
+
+        clipboard.on('error', function (e) {
+            console.error('复制失败：', e.text);
+        });
+    });
+</script>
+
 <!-- Post Header -->
 {% include intro-header.html type='post' %}
 
@@ -168,42 +184,3 @@ layout: default
         }
     </style>
 {% endif %}
-
-<!-- 代码块复制功能 -->
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var clipboard = new ClipboardJS('.btn-copy');
-
-        clipboard.on('success', function (e) {
-            console.info('复制成功：', e.text);
-            e.clearSelection();
-        });
-
-        clipboard.on('error', function (e) {
-            console.error('复制失败：', e.text);
-        });
-    });
-</script>
-
-<style>
-    .code-container {
-        position: relative;
-    }
-
-    .btn-copy {
-        position: absolute;
-        top: 0;
-        right: 0;
-        cursor: pointer;
-        background-color: #007bff;
-        color: #fff;
-        padding: 5px 10px;
-        border: none;
-        border-radius: 3px;
-        z-index: 1;
-    }
-
-    .btn-copy:hover {
-        background-color: #0056b3;
-    }
-</style>
