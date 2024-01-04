@@ -126,7 +126,7 @@ map.put(4, 40);
         }
 ```
 
-######　ForEach EntrySet
+###### ForEach EntrySet
 
 ```java
 for (Map.Entry<Integer, String> entry : map.entrySet()) {
@@ -135,7 +135,7 @@ for (Map.Entry<Integer, String> entry : map.entrySet()) {
         }
 ```
 
-######　ForEach KeySet
+###### ForEach KeySet
 
 ```java
   for (Integer key : map.keySet()) {
