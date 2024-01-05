@@ -6,7 +6,7 @@ author:     "Mtz"
 catalog: true
 tags:
     - Java
-    - 集合遍历
+    - 集合
 ---
 
 # List集合
