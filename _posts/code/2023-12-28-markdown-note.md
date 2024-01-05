@@ -44,6 +44,15 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Meta
+
+
+layout:     post
+title:      "Java中的Lambda表达式"
+date:       2024-1-5
+author:     "Mtz"
+catalog: true
+tags:
+    - Meta
 ```
 
 分析：
