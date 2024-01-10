@@ -8,7 +8,7 @@
  <br />
 <br />
 
-![流程图](zh.assets/22b8bafe3f5983361a095.png)
+![流程图](https://telegraph-image-a8w.pages.dev/file/22b8bafe3f5983361a095.png)
 
 
 
