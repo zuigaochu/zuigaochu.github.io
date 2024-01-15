@@ -115,7 +115,7 @@ public class LRUCache {
 
 # 图解
 
-![链表](https://cache.yisu.com/upload/information/20200623/121/113333.png)
+![链表](https://ts1.cn.mm.bing.net/th/id/R-C.8689c31dff2149b3d9742e26b9a06ed3?rik=UORGFzX1y4huUA&riu=http%3a%2f%2fimages.cnitblog.com%2fi%2f497634%2f201403%2f241342164043381.jpg&ehk=zZnKvuo1pt7ltsbXH4yxeTihYUQgzHwUmYUJm1V5IPU%3d&risl=&pid=ImgRaw&r=0)
 
 
 
