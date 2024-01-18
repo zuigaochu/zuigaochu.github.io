@@ -5,7 +5,7 @@ date:       2024-1-11
 author:     "Mtz"
 catalog: true
 tags:
-    - 数据结构
+    - 数据结构与算法
     - 链表
 ---
 
