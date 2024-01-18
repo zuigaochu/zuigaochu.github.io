@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "LRU缓存"
+title:      "链表——LRU缓存"
 date:       2024-1-11
 author:     "Mtz"
 catalog: true
