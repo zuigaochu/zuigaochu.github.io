@@ -333,7 +333,7 @@ public class DoublyLinkedListSentinel implements Iterable<Integer> {
 
 
 
-```Java
+```java
 public class DoublyLinkedListSentinel implements Iterable<Integer> {
 
     @Override
