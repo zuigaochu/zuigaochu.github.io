@@ -5,7 +5,6 @@ date:       2024-1-19
 author:     "Mtz"
 catalog: true
 tags:
-    - 数据结构与算法
     - 数组
 ---
 
