@@ -19,7 +19,7 @@ tags:
 
 * 单向链表，每个元素只知道其下一个元素是谁
 
-![list](2024-1-19-Linked-List2.assets/192cae5159d04a542a676.png)
+![list](https://telegraph-image-a8w.pages.dev/file/192cae5159d04a542a676.png)
 
 * 双向链表，每个元素直到其上一个元素和下一个元素
 
@@ -327,7 +327,7 @@ public class DoublyLinkedListSentinel implements Iterable<Integer> {
 
 ![list8](https://telegraph-image-a8w.pages.dev/file/8e6e99544696b7402cbe2.png)
 
-![list6](2024-1-19-Linked-List2.assets/ce0155b7531103cb056ac.png)
+![list6](https://telegraph-image-a8w.pages.dev/file/ce0155b7531103cb056ac.png)
 
 ![list7](https://telegraph-image-a8w.pages.dev/file/5efa9df637f7a4ecf15f8.png)
 
