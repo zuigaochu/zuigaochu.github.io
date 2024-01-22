@@ -55,10 +55,6 @@ tags:
 
 ![list3](https://telegraph-image-a8w.pages.dev/file/b36563e207b5f79e260c8.png)
 
-链表内还有一种特殊的节点称为哨兵（Sentinel）节点，也叫做哑元（ Dummy）节点，它不存储数据，通常用作头尾，用来简化边界判断，如下图所示
-
-![list4](https://gitee.com/writebird/cloudmage/raw/master/img/202401191016804.png)
-
 <br/>
 
 * **Java中引用链表实现的数据结构**
@@ -262,7 +258,7 @@ public class SinglyLinkedListSentinel implements Iterable<Integer>  {
 head = new Node(value,null);
 ```
 
-<img src="2024-1-19-Linked-List2.assets/316f024c97c942e6651df.png" alt="list10" style="zoom:50%;" />
+<img src="https://telegraph-image-a8w.pages.dev/file/d8e64f3bf5bc8deb72b9b.png" alt="list10" style="zoom:50%;" />
 
 分析： 第一次添加值，其实就是新结点，赋值给头结点的过程， 也就是head = Node.
 
