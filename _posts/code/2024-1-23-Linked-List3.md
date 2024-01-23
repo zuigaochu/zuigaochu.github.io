@@ -4,7 +4,7 @@ title:      "反转链表"
 date:       2024-1-23
 author:     "Mtz"
 tags:
-    - 递归
+    - 链表
 ---
 
 # [反转链表](https://leetcode.cn/problems/reverse-linked-list/)
